@@ -1,0 +1,8 @@
+{
+  "name": "LegalEase — AI-Powered Legal Document Generator",
+  "description": "Generate, customize, edit, and export professional legal documents in minutes with AI-assisted drafting, key terms extraction, and custom branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
